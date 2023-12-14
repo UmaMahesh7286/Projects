@@ -1,0 +1,6 @@
+coupon_id,coupon_name,description,discount,status,
+1,Welcome_Offer,FLAT 5% OFF* (up to Rs. 1000) on your first booking,5,Active,
+2,Diwali_Offer,FLAT 10% OFF* (up to Rs.2000)  on your booking,10,Active,
+3,Family_Offer,"Buy above 30,000 and get upto 20% Discount",20,Active,
+4,Weekend_Offer,Book on first Weekend of the month and get upto 10% discount,10,Active,
+5,Combo_Offer,Get upto 15% discount,15,Active,
