@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.6
+Implementation-Title: rest-api-with-with-spring-jpa-criteria
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.canchitodev.example
+Implementation-Vendor: Canchito Development
+Implementation-URL: https://github.com/canchito-dev/rest-api-with-with-s
+ pring-jpa-criteria
+Created-By: Maven Integration for Eclipse
+

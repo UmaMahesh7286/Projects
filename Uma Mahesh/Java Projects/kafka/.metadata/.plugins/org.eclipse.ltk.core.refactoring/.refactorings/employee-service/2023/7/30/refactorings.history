@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.feuji.employeeservice.utils.EmployeeUtils&apos; to &apos;AppUtils&apos;&#x0D;&#x0A;- Original project: &apos;employee-service&apos;&#x0D;&#x0A;- Original element: &apos;com.feuji.employeeservice.utils.EmployeeUtils&apos;&#x0D;&#x0A;- Renamed element: &apos;com.feuji.employeeservice.utils.AppUtils&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EmployeeUtils&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.feuji.employeeservice.utils{EmployeeUtils.java[EmployeeUtils" matchStrategy="1" name="AppUtils" qualified="false" references="true" similarDeclarations="false" stamp="1690452367746" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,3 @@
+INDEX VERSION 1.132
+D:\kafka\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2823469744.index
+\jspmanagement\src\main\java
